@@ -17,8 +17,8 @@
         <java.version>11</java.version>
     </properties>
     <modules>
-        <module>course</module>
         <module>core</module>
+        <module>courses</module>
     </modules>
 
     <dependencies>
